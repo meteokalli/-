@@ -9,8 +9,13 @@
 Ο τόπος αυτός θα είναι το περιβαλλον του Καλλιτεχνικου Σχολειου Ηρακλείου το οποίο βρίσκεται στη περιοοχή των Γουβών.Στο χώρο του σχολειου θα κατασκευαστεί ο μετεωρολογικος σταθμός .
 τα υλικά τα οποία θα χρειαστούν θα είναι
 1 arduino 
-2 waveshare  Environme
-
+2 HC05 Bluetooth module
+BH1750FVI Digital Light Sensor Module For Arduino
+Weather Meters kit (Wind Vane, Cup Anemometer, Tipping Bucket Rain Gauge, Mounting Mast, Rain Gauge Mounting Arm, Wind Meter Mounting Bar, Mounting Clamps)
+10A Solar Panel Battery Regulator - Charge Controller 12V/24V
+6V 3.5W 583mA Monocrystalline Silicon Solar Panel
+CCS811 Air Quality Sensor Breakout - VOC & eCO2
+Waveshare Environmental Sensor - BME280
 
 
 
