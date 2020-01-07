@@ -16,7 +16,8 @@ Weather Meters kit (Wind Vane, Cup Anemometer, Tipping Bucket Rain Gauge, Mounti
 6V 3.5W 583mA Monocrystalline Silicon Solar Panel
 CCS811 Air Quality Sensor Breakout - VOC & eCO2
 Waveshare Environmental Sensor - BME280
-Ο μετεωρολογικος  σταθμος του σχοελείου  θα λειτουργεί συμπληρωματικά με συτούς της ευρύτερης περιοχ.
+Ο μετεωρολογικος  σταθμος του σχοελείου  θα λειτουργεί συμπληρωματικά με συτούς της ευρύτερης περιοχης.
+Αυτό θα γίνεται  γιατι θα συλλέγει δεδομένα περιβαλλοντικά που δεν συλλέγονται ως τώρα όπωςCO2 και VOC
 
 
 
